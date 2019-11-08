@@ -3,4 +3,4 @@
 Si, usando el mergetool.
 
 ¿Se pueden mantener los dos datos solo de un ALFA o BETA?¿Como?
-Si, hacienso merge de un solo brach.
+Si, haciendo merge de un solo brach.
